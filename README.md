@@ -41,6 +41,8 @@ output Y;
 assign Y = J & ~Qt | ~K & Qt;
 endmodule 
 
+Develpoed by:Rajalakshmi V Reg no: 25016476
+
 
 
 
